@@ -1,4 +1,4 @@
-### Olá! sou o Franklin 👋
+### Olá! eu sou o Franklin 👋
 
 - 🔭 Hoje trabalho como Analista de Suporte em Sistemas
 - 🌱 Estou estudando Sistemas de Informação
