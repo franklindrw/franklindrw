@@ -1,6 +1,6 @@
 ### Olá! sou o Franklin 👋
 
-- 🔭 Hoje trabalho como Analista de Suporte de Sistemas
+- 🔭 Hoje trabalho como Analista de Suporte em Sistemas
 - 🌱 Estou estudando Sistemas de Informação
 - 😄 Pronouns: ele/dele
 
