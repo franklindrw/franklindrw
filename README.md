@@ -17,7 +17,7 @@
   <img align="center" alt="Frank-Js" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Frank-Js" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Frank-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/821520640783417356/894311528214454294/GLITCH_20211003164736.gif">
+  <img align="right" alt="Frank-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/821520640783417356/894311528214454294/GLITCH_20211003164736.gif">
 </div>
   
  ![Snake animation](https://github.com/franklindrw/franklindrw/blob/output/github-contribution-grid-snake.svg) 
