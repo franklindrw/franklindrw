@@ -1,7 +1,9 @@
 ### Olá! eu sou o Franklin 👋
 
 - 🔭 Hoje trabalho como Analista de Suporte de Sistemas
+- 💻 Tenho interesse em Desenvolvimento Web e Mobile
 - 🌱 Estou estudando Sistemas de Informação
+- 🎯 Foco em Front-end e futuramente Fullstack
 - 😄 Pronouns: ele/dele
 
 <div align="center">
