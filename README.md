@@ -4,7 +4,7 @@
 - 💻📱 Tenho interesse em Desenvolvimento Web e Mobile
 - 🌱 Estou estudando Sistemas de Informação
 - 🎯 Foco em Front-end e futuramente Fullstack
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=franklindrw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
