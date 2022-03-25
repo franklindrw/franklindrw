@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=franklindrw&style=for-the-badge&label=VISITANTES)
 
 ### Olá! eu sou o Franklin 👋
 
