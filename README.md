@@ -11,6 +11,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=franklindrw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklindrw&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=franklindrw&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
   
 <div style="display: inline-block"><br>
   <img align="center" alt="Frank-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
