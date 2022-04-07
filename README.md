@@ -4,7 +4,7 @@
 - 🔭 Hoje trabalho com Desenvolvimento e sustentação de Sistemas
 - 💻📱 Tenho interesse em Desenvolvimento Web e Mobile
 - 🌱 Estou estudando Sistemas de Informação
-- 🎯 Foco em Front-end e futuramente Fullstack
+- 🎯 Foco em Front-end e futuramente Fullstack com Javascript
 - 😄 Pronomes: ele/dele
 
 <div align="center">
