@@ -1,7 +1,7 @@
 
 ### Olá! eu sou o Franklin 👋
 
-- 🔭 Hoje trabalho como Analista de Suporte de Sistemas
+- 🔭 Hoje trabalho com Desenvolvimento e sustentação de Sistemas
 - 💻📱 Tenho interesse em Desenvolvimento Web e Mobile
 - 🌱 Estou estudando Sistemas de Informação
 - 🎯 Foco em Front-end e futuramente Fullstack
